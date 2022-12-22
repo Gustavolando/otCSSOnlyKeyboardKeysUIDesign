@@ -10,6 +10,6 @@ This was taken from the Online Tutorials [videos](https://www.youtube.com/watch?
 
 I hope you like it, code it and [watch it](https://gustavolando.github.io/otCSSOnlyKeyboardKeysUIDesign/)!
 
-![CSS Only Keyboard Keys UI Design](https://gustavolando.github.io/otCSSOnlyKeyboardKeysUIDesign/House%20Drawing.png)
+![CSS Only Keyboard Keys UI Design](https://gustavolando.github.io/otCSSOnlyKeyboardKeysUIDesign/CSS%20Only%20Keyboard%20Keys%20UI%20Design.png)
 
 Here is the demo link:  https://gustavolando.github.io/otCSSOnlyKeyboardKeysUIDesign/
